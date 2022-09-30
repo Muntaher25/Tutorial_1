@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">new recycler view</string>
+
+    <string-array name="App_names">
+        <item>  Facebook </item>
+        <item>  Gallery </item>
+        <item>  Instagram </item>
+        <item>  messenger </item>
+        <item> whatsapp </item>
+        <item> pinterest</item>
+        <item> telegram </item>
+
+    </string-array>
+    <string-array name="App_des">
+        <item> It is the place where the images are stored </item>
+        <item> It is a social media </item>
+        <item> It is a social media which is very popular </item>
+        <item> Facebook is the most popular </item>
+        <item> It a also a popular media </item>
+        <item> It a also a popular media</item>
+        <item>It a also a popular media </item>
+    </string-array>
+
+
+</resources>
